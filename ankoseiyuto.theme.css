@@ -1,4 +1,4 @@
-/**
+s/**
  * @name ankoseiyuto
  * @author ankoseiyuto
  * @version 6.9.0
@@ -6,7 +6,7 @@
  */
 
 /* IMPORT CSS */
-@import url(https://github.com/shoutodesu/personaluse-discord-theme/main.css);
+@import url(https://github.com/shoutodesu/personaluse-discord-theme/main.scss);
 
 /* SETTINGS */
 :root {
